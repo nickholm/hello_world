@@ -1,0 +1,8 @@
+ID: Hello_world
+_schema-version: '2.0'
+version: 0.0.1
+
+modules:
+ - name: hello
+   type: html5
+   path: hello
